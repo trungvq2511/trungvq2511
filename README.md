@@ -21,6 +21,7 @@
 ### 🏅 Certificates:
 <div style="display: flex">
     <a href="https://confirm.udacity.com/e/d3834fb0-e866-11ee-9720-7fb50ff20e62"><img src="images/Udacity-Cloud-Developer.png" alt="Udacity-Cloud-Developer" style="display: inline-block; width: 50%"/></a>
+    <a href="https://confirm.udacity.com/e/ea663808-1216-11ef-a2ef-0774ceb801cd"><img src="images/Udacity-Intermediate-JavaScript.png" alt="Udacity-Intermediate-JavaScript" style="display: inline-block; width: 50%"/></a>
     <a href="https://confirm.udacity.com/e/c7b2ace2-14b5-11ee-b270-c7125f7026d0"><img src="images/Udacity-Java-Web-Developer.png" alt="Udacity-Java-Web-Developer" style="display: inline-block; width: 50%"/></a>
     <a href="https://confirm.udacity.com/e/b7482474-46e5-11ee-9722-77eccf1e6c7f"><img src="images/Udacity-Java-Programming.png" alt="Udacity-Java-Programming" style="display: inline-block; width: 50%"/></a>
     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FDD5A83C994AA2311EBC823323F48FE6B15EAF1B0BA28DDFF5A15AC7157143E3"><img src="images/OCA.png" alt="OCA" style="display: inline-block; width: 50%"/></a>
